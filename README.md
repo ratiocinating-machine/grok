@@ -1,1 +1,1 @@
-### Thingking Machine (grok)
+### Ratiocinating Machine (grok)
